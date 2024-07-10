@@ -3,7 +3,6 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Bienvenue dans la calculatrice simple !");
-
         while (true) {
             System.out.println("Choisissez une opération :");
             System.out.println("1. Addition");
