@@ -10,7 +10,6 @@ public class Calculator {
             System.out.println("3. Multiplication");
             System.out.println("4. Division");
             System.out.println("5. Quitter");
-
             int choice = scanner.nextInt();
             
             if (choice == 5) {
